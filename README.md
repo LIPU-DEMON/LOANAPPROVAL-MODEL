@@ -25,3 +25,8 @@ Data-Source: https://www.kaggle.com/datasets/taweilo/loan-approval-classificatio
 <li>Boosting Model using AdaptiveBoosting algorithm</li>
 <li>Final Reports</li>
 
+### Demo
+<img width="600" height="600" alt="loan-img" src="https://github.com/user-attachments/assets/2a08fa94-82f5-468f-bff6-ebafb4ba81ac" />
+
+
+<img width="600" height="600" alt="loan-img1" src="https://github.com/user-attachments/assets/fa3ecc06-9389-40cd-87df-6fd068c8a295" />
