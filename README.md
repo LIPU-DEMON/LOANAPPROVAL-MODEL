@@ -9,7 +9,7 @@ Data-Source: https://www.kaggle.com/datasets/taweilo/loan-approval-classificatio
 <li>Model Training using LogisticRegression,SupportVectorClassifier,DecisionTreeClassifier,RandomForest</li>
 <li>HyperParameter Tuning using RandomizedSearchCV</li>
 <li>Optimization using Adaptive Boosing</li>
-<li>Performance metrics like Precision,Accuracy</li>
+Evaluation metrics like Precision,Accuracy</li>
 
 ## Tech Stack
 <li>Python 3</li>
